@@ -1,13 +1,30 @@
 h1{
-    color: #120fda;
-    font-family: "Neuton";
+    text-align: center;
+    translate: 0 -5vh;
+
 }
 
-#box{ border: 3px solid; 
-  height: 300px; 
-  width: 300px;
+#box{ border: 6px solid; 
+  height: 600px; 
+  width: 800px;
+translate: 0 -5vh;
  background-image: url("pikapika.webp");
  position: relative; 
-
  text-align: center;
+ margin-left: auto;
+ margin-right: auto;
+ color: rgb(0, 0, 0);
+
 }
+ 
+body{
+    background-image: url("süßer\ hundi\ 2.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position-y: center;
+    background-size: cover;
+    font-family: Neuton;
+    color: #120fda;
+}
+
+
