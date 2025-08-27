@@ -1,30 +1,36 @@
-h1{
-    text-align: center;
-    translate: 0 -5vh;
+h1 {
+  text-align: center;
+  translate: 0 -5vh;
 
 }
 
-#box{ border: 6px solid; 
-  height: 600px; 
+#box {
+  border: 6px solid;
+  border-radius: 80px;
+  height: 600px;
   width: 800px;
-translate: 0 -5vh;
- background-image: url("pikapika.webp");
- position: relative; 
- text-align: center;
- margin-left: auto;
- margin-right: auto;
- color: rgb(0, 0, 0);
-
-}
- 
-body{
-    background-image: url("süßer\ hundi\ 2.jpg");
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position-y: center;
-    background-size: cover;
-    font-family: Neuton;
-    color: #120fda;
+  translate: 0 -5vh;
+  background-image: url("ShōtōkanTiger.svg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  color: rgb(255, 255, 255);
 }
 
-
+body {
+  background-image: url("süßer\ hundi\ 2.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position-y: center;
+  background-size: cover;
+  font-family: Neuton;
+  color: #ffffff;
+}
+.Knopfe {
+color: #ffffff;
+font-size: large;
+}
